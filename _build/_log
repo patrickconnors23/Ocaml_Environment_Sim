@@ -1,0 +1,72 @@
+### Starting build.
+# Target: Main.ml.depends, tags: { extension:ml, file:Main.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Main.ml > Main.ml.depends # cached
+# Target: Bear.ml.depends, tags: { extension:ml, file:Bear.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Bear.ml > Bear.ml.depends # cached
+# Target: WorldObject.ml.depends, tags: { extension:ml, file:WorldObject.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules WorldObject.ml > WorldObject.ml.depends # cached
+# Target: Direction.ml.depends, tags: { extension:ml, file:Direction.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Direction.ml > Direction.ml.depends # cached
+# Target: Direction.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Direction.cmo, file:Direction.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Direction.cmo Direction.ml # cached
+# Target: Draw.ml.depends, tags: { extension:ml, file:Draw.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Draw.ml > Draw.ml.depends # cached
+# Target: Draw.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Draw.cmo, file:Draw.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Draw.cmo Draw.ml # cached
+# Target: WEvent.ml.depends, tags: { extension:ml, file:WEvent.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules WEvent.ml > WEvent.ml.depends # cached
+# Target: WEvent.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:WEvent.cmo, file:WEvent.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o WEvent.cmo WEvent.ml # cached
+# Target: World.ml.depends, tags: { extension:ml, file:World.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules World.ml > World.ml.depends # cached
+# Target: Helpers.ml.depends, tags: { extension:ml, file:Helpers.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Helpers.ml > Helpers.ml.depends # cached
+# Target: Helpers.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Helpers.cmo, file:Helpers.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Helpers.cmo Helpers.ml # cached
+# Target: WorldObjectI.ml.depends, tags: { extension:ml, file:WorldObjectI.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules WorldObjectI.ml > WorldObjectI.ml.depends # cached
+# Target: WorldObjectI.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:WorldObjectI.cmo, file:WorldObjectI.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o WorldObjectI.cmo WorldObjectI.ml # cached
+# Target: World.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:World.cmo, file:World.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o World.cmo World.ml # cached
+# Target: WorldObject.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:WorldObject.cmo, file:WorldObject.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o WorldObject.cmo WorldObject.ml # cached
+# Target: Bear.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Bear.cmo, file:Bear.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Bear.cmo Bear.ml # cached
+# Target: Bee.ml.depends, tags: { extension:ml, file:Bee.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Bee.ml > Bee.ml.depends # cached
+# Target: Bee.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Bee.cmo, file:Bee.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Bee.cmo Bee.ml # cached
+# Target: Cave.ml.depends, tags: { extension:ml, file:Cave.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Cave.ml > Cave.ml.depends # cached
+# Target: Cave.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Cave.cmo, file:Cave.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Cave.cmo Cave.ml # cached
+# Target: Cow.ml.depends, tags: { extension:ml, file:Cow.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Cow.ml > Cow.ml.depends # cached
+# Target: Cow.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Cow.cmo, file:Cow.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Cow.cmo Cow.ml # cached
+# Target: Flower.ml.depends, tags: { extension:ml, file:Flower.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Flower.ml > Flower.ml.depends # cached
+# Target: Flower.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Flower.cmo, file:Flower.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Flower.cmo Flower.ml # cached
+# Target: Hive.ml.depends, tags: { extension:ml, file:Hive.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Hive.ml > Hive.ml.depends # cached
+# Target: Hive.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Hive.cmo, file:Hive.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Hive.cmo Hive.ml # cached
+# Target: Pasture.ml.depends, tags: { extension:ml, file:Pasture.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Pasture.ml > Pasture.ml.depends # cached
+# Target: Pasture.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Pasture.cmo, file:Pasture.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Pasture.cmo Pasture.ml # cached
+# Target: Pond.ml.depends, tags: { extension:ml, file:Pond.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules Pond.ml > Pond.ml.depends # cached
+# Target: Pond.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Pond.cmo, file:Pond.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Pond.cmo Pond.ml # cached
+# Target: UI.ml.depends, tags: { extension:ml, file:UI.ml, ocaml, ocamldep, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamldep.opt -modules UI.ml > UI.ml.depends # cached
+# Target: UI.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:UI.cmo, file:UI.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o UI.cmo UI.ml # cached
+# Target: Main.cmo, tags: { byte, compile, extension:cmo, extension:ml, file:Main.cmo, file:Main.ml, implem, ocaml, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt -c -thread -strict-sequence -w A-4-33-40-41-42-43-34-44 -o Main.cmo Main.ml # cached
+# Target: Main.byte, tags: { byte, dont_link_with, extension:byte, file:Main.byte, link, ocaml, program, quiet, strict-sequence, thread, traverse, use_graphics, use_str, use_unix, warn(A-4-33-40-41-42-43-34-44) }
+/Users/patrickconnors/.ocamlbrew/ocaml-4.02.2/bin/ocamlc.opt unix.cma str.cma graphics.cma -thread threads.cma Direction.cmo Draw.cmo WEvent.cmo Helpers.cmo WorldObjectI.cmo World.cmo WorldObject.cmo Bear.cmo Bee.cmo Cave.cmo Cow.cmo Flower.cmo Hive.cmo Pasture.cmo Pond.cmo UI.cmo Main.cmo -o Main.byte # cached
+# Compilation successful.
